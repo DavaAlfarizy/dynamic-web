@@ -1,0 +1,55 @@
+/* Style untuk tag body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+  }
+  
+  /* Style untuk tag form */
+  form {
+    margin-top: 50px;
+  }
+  
+  /* Style untuk tag ul */
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Style untuk tag input[type="text"] */
+  input[type="text"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Style untuk tag img */
+  img {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+  }
+  
+  /* Style untuk tag button */
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #0E8388;
+    cursor: pointer;
+  }
+  
+  /* Style untuk tag button:hover */
+  button:hover {
+    background-color: #0E8388;
+  }
